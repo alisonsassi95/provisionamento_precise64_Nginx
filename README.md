@@ -43,3 +43,4 @@ Agora basta você fazer o download e seguir os seguintes passos:
 9- Para sair da máquina digite “exit”
 
 
+Pronto seu servidor está pronto para ser utilizado.
