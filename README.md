@@ -24,13 +24,22 @@ Agora basta você fazer o download e seguir os seguintes passos:
 # Para subir o provisionamento da máquina, você deve:
 
 1- Você deve estar na pasta do arquivo “vagrant”.
+
 2- Executar no terminal o comando: “vagrant up”
+
 3- Vai começar a executar e então vai perguntar: “NginX: Which interface should the network bridge to?” . Você deve verificar nas 2 linha acima, em qual rede está para fazer o compartilhamento de IP entre a máquina virtual e a sua e então digite o número equivalente e dê um enter.
+
 4- Você saberá se ocorreu tudo certo quando ver na ultima mensagem o seguinte:
 “NginX: notice: Finished catalog run in 120.16 seconds”
+
 5- Então digite no terminal: “vagrant ssh”
+
 6- Você estará dentro da máquina virtual criada.
+
 7- Digite o comando: “ifconfig”
+
 8-Verifique o IP da máquina virtual e acesse de qualquer máquina da rede, colocando o IP em um navegador.
+
 9- Para sair da máquina digite “exit”
+
 
